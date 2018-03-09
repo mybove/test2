@@ -2,6 +2,8 @@
 # Auto install Shadowsocks Server
 
 安装请执行wget https://github.com/mybove/test2/blob/master/SSR && bash SSR
+也可以用这个安装https://github.com/91yun/shadowsocks_install
+
 
 shadowsocks.sh
 ===============
