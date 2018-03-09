@@ -1,6 +1,8 @@
 ![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
+安装请执行wget https://github.com/mybove/test2/blob/master/SSR && bash SSR
+
 shadowsocks.sh
 ===============
 - Auto Install Shadowsocks(Python) Server for CentOS/Debian/Ubuntu
